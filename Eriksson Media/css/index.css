@@ -7,4 +7,9 @@ body {
   border: 2px solid white;
   padding: 4px;
   border-radius: 2px;
+  border-color: black;
+}
+
+p {
+  color: white;
 }
